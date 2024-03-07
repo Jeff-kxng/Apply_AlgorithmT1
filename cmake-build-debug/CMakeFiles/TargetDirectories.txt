@@ -1,0 +1,6 @@
+C:/Users/sokon/CLionProjects/Apply Algorithm/cmake-build-debug/CMakeFiles/Apply_Algorithm.dir
+C:/Users/sokon/CLionProjects/Apply Algorithm/cmake-build-debug/CMakeFiles/new_target.dir
+C:/Users/sokon/CLionProjects/Apply Algorithm/cmake-build-debug/CMakeFiles/new_target1.dir
+C:/Users/sokon/CLionProjects/Apply Algorithm/cmake-build-debug/CMakeFiles/new_target2.dir
+C:/Users/sokon/CLionProjects/Apply Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sokon/CLionProjects/Apply Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

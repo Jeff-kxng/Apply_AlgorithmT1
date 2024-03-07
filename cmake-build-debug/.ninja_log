@@ -1,0 +1,12 @@
+# ninja log v5
+3	283	7315223784745961	build.ninja	1e09e82ab5dfa1ff
+1663	1757	7315219627214891	Apply_Algorithm.exe	1f1a417ee4524614
+9	1792	7315221422969530	CMakeFiles/Apply_Algorithm.dir/maze.cpp.obj	c997d2250b89274
+573	666	7315222929693434	new_target1.exe	1c3c12fb4fc0f100
+1543	1619	7315221523800732	new_target.exe	eb2462f87aa8abd9
+4	1721	7315221422278979	CMakeFiles/Apply_Algorithm.dir/RMQ.cpp.obj	7c097b0c4013e103
+0	1543	7315221523062403	CMakeFiles/new_target.dir/RMQ.cpp.obj	606ddac844fed596
+0	573	7315222928772866	CMakeFiles/new_target1.dir/Largestblacksubrectangle.cpp.obj	2dff1043f132214d
+1	111	7315223784745961	build.ninja	1e09e82ab5dfa1ff
+1	1678	7315223801745803	CMakeFiles/new_target2.dir/Telco.cpp.obj	1aa2b40532e1de2a
+1679	1770	7315223802640539	new_target2.exe	632a0a75b900f687
